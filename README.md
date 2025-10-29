@@ -37,7 +37,7 @@ The event serves as a reminder for MSP claim submission deadlines and can be imp
 
 1 Go to https://calendar.google.com in a web browser and log in with the Google Account used for syncing your mobile device.
 
-2 In the Desktop view of Google Calendar, click the "+" sign next to "Other calendars" on the left-hand side.
+2 Change to Desktop view of the browser, click the "+" sign next to "Other calendars" on the left-hand side.
 
 3 Select "From URL".
 
