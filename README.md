@@ -36,13 +36,21 @@ The event serves as a reminder for MSP claim submission deadlines and can be imp
 ***Android**
 
 1 Go to https://calendar.google.com in a web browser and log in with the Google Account used for syncing your mobile device.
+
 2 In the Desktop view of Google Calendar, click the "+" sign next to "Other calendars" on the left-hand side.
+
 3 Select "From URL".
+
 4 Enter the following URL:
+
  https://raw.githubusercontent.com/crchealthcentrespecialist/MSP-Claims-calendar-/refs/heads/main/msp2025.ics
+
 6 Click "Add Calendar" to complete the subscription.
+
 7 On your mobile device, tap "Settings" on the Home screen.
+
 8 Select the Google account used for syncing, then sync it with the calendar app.
+
 9 Open the calendar app. If you have multiple calendars installed, ensure that "MSP Claim" is selected in the calendar settings to sync it.
 
 (Note: Synchronization functions and settings may vary across different Android devices and calendar apps.)
