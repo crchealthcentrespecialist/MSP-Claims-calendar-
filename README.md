@@ -58,11 +58,16 @@ The event serves as a reminder for MSP claim submission deadlines and can be imp
 **Outlook (Desktop Version)**
 
 1 Open Outlook and go to Calendar.
+
 2 Click the "Home" tab.
+
 3 In the "Manage Calendars" group, click "Open Calendar".
+
 4 Select "From Internet".
+
 5 Enter the following URL:
  https://raw.githubusercontent.com/crchealthcentrespecialist/MSP-Claims-calendar-/refs/heads/main/msp2025.ics
+
 6 Click "OK" to add the calendar.
 
 **iCloud (For iOS devices and macOS)**
