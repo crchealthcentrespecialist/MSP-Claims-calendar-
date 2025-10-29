@@ -18,12 +18,19 @@ The event serves as a reminder for MSP claim submission deadlines and can be imp
 
 **iOS 18.5 (Latest version as of 19 May 2025)**
 1 Tap "Settings" on the Home screen.
+
 2 Select "Apps", then "Calendar".
+
 3 Choose "Accounts", then "Add Account".
+
 4 Select "Other", then "Add Subscribed Calendar".
+
 5 Enter the following URL in the "Server" field:
+
  https://raw.githubusercontent.com/crchealthcentrespecialist/MSP-Claims-calendar-/refs/heads/main/msp2025.ics
+ 
 6 Tap "Next", then "Save" to finish. The MSP Claim close-off schedule will be added automatically to your calendar.
+
 (Note: Subscription steps may vary with different iOS versions.)
 
 ***Android**
