@@ -33,7 +33,7 @@ The event serves as a reminder for MSP claim submission deadlines and can be imp
 
 (Note: Subscription steps may vary with different iOS versions.)
 
-***Android**
+**Android**
 
 1 Go to https://calendar.google.com in a web browser and log in with the Google Account used for syncing your mobile device.
 
